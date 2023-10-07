@@ -3,7 +3,7 @@
 #include <string.h>
 
 /**
- * C file Handling
+ * C file Handling:
  * 1. Stream-oriented data files - the data is stored in the same manner as it appears on the screen.
  * 2. System-oriented data files - The data files are more closely associated with the OS.
  * 
